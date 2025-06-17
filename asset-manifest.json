@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Disney-Hotstar/static/css/main.e629ca05.css",
+    "main.js": "/Disney-Hotstar/static/js/main.957dfe7b.js",
+    "index.html": "/Disney-Hotstar/index.html",
+    "main.e629ca05.css.map": "/Disney-Hotstar/static/css/main.e629ca05.css.map",
+    "main.957dfe7b.js.map": "/Disney-Hotstar/static/js/main.957dfe7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e629ca05.css",
+    "static/js/main.957dfe7b.js"
+  ]
+}
